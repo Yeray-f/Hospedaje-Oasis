@@ -79,5 +79,9 @@ Seleccione una opción:
 - [Nataly Angarita](https://github.com/HxNat)
 - [Skarik Barbosa](https://github.com/Skarik-L)
 - [Yeray Álvarez](https://github.com/Yeray-f)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 328373f (Agregados autores al README)
 
 
