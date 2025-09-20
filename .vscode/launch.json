@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HotelReservas1",
+            "request": "launch",
+            "mainClass": "HotelReservas1",
+            "projectName": "Hotel_a060e41d"
+        },
+        {
+            "type": "java",
+            "name": "HotelReservas",
+            "request": "launch",
+            "mainClass": "HotelReservas",
+            "projectName": "Hotel_a060e41d"
+        },
+        {
+            "type": "java",
+            "name": "Hotel",
+            "request": "launch",
+            "mainClass": "Hotel",
+            "projectName": "Hotel_a060e41d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ReservasHotel1",
+            "request": "launch",
+            "mainClass": "ReservasHotel1",
+            "projectName": "Hotel_a060e41d"
+        },
+        {
+            "type": "java",
+            "name": "hotel",
+            "request": "launch",
+            "mainClass": "hotel",
+            "projectName": "Hotel_a060e41d"
+        }
+    ]
+}
