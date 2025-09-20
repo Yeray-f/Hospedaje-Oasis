@@ -74,8 +74,10 @@ Seleccione una opción:
 
 ## Autores
 
-- @HxNat
-- @Skarik-L
-- @Yeray-f
+## Autores
+
+- [Nataly Angarita](https://github.com/HxNat)
+- [Skarik Barbosa](https://github.com/Skarik-L)
+- [Yeray Álvarez](https://github.com/Yeray-f)
 
 
